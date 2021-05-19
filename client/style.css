@@ -1,0 +1,19 @@
+* {
+  font-family: sans-serif;
+}
+
+/* left and touching left and right */
+.field-and-label {
+  display: flex;
+  justify-content: space-between;
+  margin: 12px 0;
+}
+
+/* button to have some padding */
+fieldset {
+  margin-bottom: 20px;
+}
+button {
+  cursor: pointer;
+  padding: 8px;
+}
